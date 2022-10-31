@@ -6,6 +6,5 @@ public class Task4 {
         System.out.println(friend);
         friend = friend / 7;
         System.out.println(friend);
-
     }
 }
